@@ -1,2 +1,3 @@
 # smithzac.github.io
-Zac's sites 
+
+https://www.color-hex.com/color-palette/30415
